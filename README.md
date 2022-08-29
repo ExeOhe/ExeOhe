@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ExeOhe
 - 👀 I’m interested in ... BlockChain Software Development
 - 🌱 I’m currently learning ... HTML CCS, JS, React, ENTRY LEVEL
-- 💞️ I’m looking to collaborate on ... ANY
+- 💞️ I’m looking to collaborate on ... Intern Projects or Demo's
 - 📫 How to reach me ... x0jxc0b315@gmail.com
 
 <!---
