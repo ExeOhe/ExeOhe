@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... BlockChain Development
 - 🌱 I’m currently learning ... Python complexity
 - 💞️ I’m looking to collaborate on ... Intern Projects or Open Source
-- 📫 How to reach me ... jacosny@mail.regent.edu
+- 📫 How to reach me ... linktr.ee/exeohe
 
 <!---
 ExeOhe/ExeOhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
