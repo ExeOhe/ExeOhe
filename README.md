@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ExeOhe
-- 👀 I’m interested in ... BlockChain Software Development
-- 🌱 I’m currently learning ... HTML CCS, JS, React, ENTRY LEVEL
-- 💞️ I’m looking to collaborate on ... Intern Projects or Demo's
-- 📫 How to reach me ... x0jxc0b315@proton.me
+- 👀 I’m interested in ... BlockChain Development
+- 🌱 I’m currently learning ... Python complexity
+- 💞️ I’m looking to collaborate on ... Intern Projects or Open Source
+- 📫 How to reach me ... jacosny@mail.regent.edu
 
 <!---
 ExeOhe/ExeOhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
