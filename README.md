@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ExeOhe
-- 👀 I’m interested in ... BlockChain Development
-- 🌱 I’m currently learning ... Python complexity
-- 💞️ I’m looking to collaborate on ... Intern Projects or Open Source
+- 👋 Hi, GitHub! I’m @ExeOhe, Jacob Snyder.
+- 👀 I’m interested in ... Blockchain & AI Development / Maintenance
+- 🌱 I’m currently learning ... Computer Science, Programming Concepts & Algorithmic P.S. Skills @ Regent University
+- 💞️ I’m looking to begin/collaborate on ... Internships + Open Source projects with likeminded souls
 - 📫 How to reach me ... linktr.ee/exeohe
 
 <!---
